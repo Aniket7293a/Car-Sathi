@@ -7,10 +7,10 @@
 
 Car Sathi allows users to:
 
-* Find and offer rides** easily.
-* Connect with verified users** for trusted journeys.
-* Save money and fuel** through ride sharing.
-* Contribute to reducing pollution** and traffic congestion.
+* Find and offer rides easily.
+* Connect with verified users for trusted journeys.
+* Save money and fuel through ride sharing.
+* Contribute to reducing pollution and traffic congestion.
 
 # 🛠️ Technologies Used
 
