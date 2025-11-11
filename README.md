@@ -58,7 +58,7 @@ car-sathi/
 1. Download or clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/car-sathi.git
+   git clone https://github.com/aniket7293a/car-sathi.git
    ```
 
 2. Open the project folder.
