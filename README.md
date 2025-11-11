@@ -98,5 +98,3 @@ WEBSITE:  *[https://aniket7293a.github.io/Car-Sathi/]*
 This project is licensed under the **MIT License** – you are free to use and modify it with attribution.
 
 ---
-
-Would you like me to format it with **GitHub-style emojis and badges** (like “Built with ❤️ using HTML, CSS, JS” and section icons) for a more attractive presentation?
