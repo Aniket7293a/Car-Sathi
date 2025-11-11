@@ -71,6 +71,7 @@ car-sathi/
 
 # 📸 Screenshots
 
+<img width="1920" height="958" alt="car-sathi Homepage" src="https://github.com/user-attachments/assets/3e22b22e-2c57-4a57-842d-aa02ac5a884e" />
 
 ---
 
